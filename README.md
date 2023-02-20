@@ -1,5 +1,5 @@
 ### Welcome 👋
 
-I'm a full-stack software developer. Other than software, my backgrounds are in film, photography and economics.
+I'm a full-stack software developer. I love building useful products.
 
-I love hot chocolate.
+Big hot chocolate fan.
