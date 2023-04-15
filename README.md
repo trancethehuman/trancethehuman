@@ -1,5 +1,5 @@
 ### Welcome 👋
 
-I'm a full-stack software developer. I love building useful products.
+I'm a full-stack software developer and love building useful products.
 
-Building some LLM apps right now.
+Actually, I'm building some LLM apps right now.
