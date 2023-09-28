@@ -6,4 +6,4 @@ I sometimes build and contribute to open-source projects like [LangChain(Python)
 
 I used to work at CoLab Software (YC S'19).
 
-My current startup: [www.catswithbats.com](www.catswithbats.com)
+My current startup: [www.catswithbats.com](https://www.catswithbats.com)
