@@ -1,9 +1,9 @@
 ### Welcome 👋
 
-I contribute to open-source as much as I can ([LangChain Python](https://github.com/langchain-ai/langchain))
+AI Tinkerers co-organizer: [ottawa.tinkerer.ai](https://ottawa.tinkerer.ai)
 
-I used to work at some YC startup but now I build LLM applications and consult full-time.
+I sometimes build and contribute to open-source projects like [LangChain(Python)](https://github.com/langchain-ai/langchain)
 
-I'm actively building instructive AI Agents (Cats w/ Bats) and sharing my learnings through [LLMSchool](https://www.youtube.com/channel/UC3xGUI2ENj-86adpm-USKbg)
+Used to work at CoLab Software (YC S'19)
 
-If you'd like to chat, feel free to reach out to me [on my LinkedIn](https://www.linkedin.com/in/haiphunghiem/).
+My current startup: [www.catswithbats.com](www.catswithbats.com)
