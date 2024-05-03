@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I founded AI Tinkerers - Ottawa, a meetup for AI / LLM builders: [ottawa.tinkerer.ai](https://ottawa.tinkerer.ai)
+I founded AI Tinkerers - Ottawa, a meetup for AI / LLM builders: [ottawa.tinkerer.ai](https://lu.ma/ai-tinkerers-ottawa)
 
 I sometimes contribute to open-source projects like [LangChain(Python)](https://github.com/langchain-ai/langchain)
 
