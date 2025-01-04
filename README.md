@@ -4,4 +4,6 @@ Founded AI Tinkerers Ottawa: [ottawa.tinkerer.ai](https://lu.ma/ai-tinkerers-ott
 
 Sometimes contribute to open-source projects: [LangChain(Python)](https://github.com/langchain-ai/langchain)
 
+[LangChain Ambassador](https://www.langchain.com/community)
+
 Used to work at [CoLab Software (YC S'19)](https://www.colabsoftware.com).
