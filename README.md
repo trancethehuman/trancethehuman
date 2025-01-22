@@ -1,4 +1,4 @@
-Building [Cats with Bats](https://app.catswithbats.com/90d4bd29)
+Building [Cats with Bats](https://app.catswithbats.com/org/90d4bd29)
 
 Founded AI Tinkerers Ottawa: [ottawa.tinkerer.ai](https://lu.ma/ai-tinkerers-ottawa)
 
